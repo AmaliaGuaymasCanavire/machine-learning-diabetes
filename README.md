@@ -24,8 +24,7 @@ La notebook descarga el archivo mediante `kagglehub`. No se incluyen datos en el
 ```text
 machine-learning-diabetes/
 ├── README.md
-├── notebooks/
-│   └── diabetes_classification.ipynb
+├── diabetes_classification.ipynb
 ├── requirements.txt
 ├── .gitignore
 └── LICENSE
